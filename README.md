@@ -3,9 +3,6 @@
 ### Automatización del lanzamiento de la red taple en un entorno local con docker-compose
 
 
-## Visualizacion de la ejecución
-
-
 
 https://user-images.githubusercontent.com/44450566/216692392-04886180-fcb0-44b2-b420-8c0597dbcd8d.mp4
 
