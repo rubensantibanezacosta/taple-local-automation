@@ -2,10 +2,10 @@
 
 ## Requisitos
 
-- Docker
-- Docker-compose
-- Git
-- Linux
+- [Docker](https://www.docker.com/)
+- [Docker-compose](https://docs.docker.com/compose/)
+- [Git](https://git-scm.com/)
+- [Ubuntu](https://ubuntu.com/) o cualquier otra distribución de linux
 
 ## Ejecución
 
