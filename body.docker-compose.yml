@@ -1,0 +1,11 @@
+  ${SERVICENAME}:
+    image: opencanarias/taple-client:latest
+    ports:
+      - "${PORT}:${PORT}"
+      - "${P2PPORT}:${P2PPORT}"
+    environment:
+      - RUST_LOG=info
+    env_file:
+      - ${ENVFILE}
+    networks:
+      - tapple-network
