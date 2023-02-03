@@ -30,7 +30,7 @@ git clone https://github.com/rubensantibanezacosta/taple-local-automation.git
 cd taple-local-automation
 ```
 
-3. Asegurate de que el script tiene permisos de lectura
+3. Asegurar que el script tiene permisos de lectura
 
 ```bash
 chmod 777 start_nodes.sh
